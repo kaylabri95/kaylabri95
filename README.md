@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaylabri95
 - 👀 I’m interested in Sustainable Living, Automation, and AI
-- 🌱 I’m currently learning How to build fullstack apps with React, Mongo.db, and more!
+- 🌱 I’m currently building fullstack apps 
 - 💞️ I’m looking to collaborate on apps and software that help people
 - 📫 How to reach me: message me anywhere! My username on most sites is Kaylabri95.
 Especially reach out throuogh my website, kaylacincinnatiburns.com!
