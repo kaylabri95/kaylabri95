@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kaylabri95" target="blank"><img src="https://img.shields.io/twitter/follow/kaylabri95?logo=twitter&style=for-the-badge" alt="kaylabri95" /></a> </p>
 
-- 🔭 I’m currently working on [Mint Dupe (Oatmilk Latte)](https://github.com/kaylabri95/OatLatte)
+- 🔭 I’m currently working at Cardinal Kinetic as a Software Engineer
 
-- 🌱 I’m currently learning **more about Data Structures and Advanced Algorithms**
+- 🌱 I’m currently learning **TypeScript & Network/Network security**
 
 - 👯 I’m looking to collaborate on **Open Source Projects or your idea!**
 
@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **kaylabri95@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1y4J7ilYoqFtSxeuQUn21YUF4zlf6HUKt/edit?usp=sharing&ouid=101565728824798586897&rtpof=true&sd=true](https://docs.google.com/document/d/1y4J7ilYoqFtSxeuQUn21YUF4zlf6HUKt/edit?usp=sharing&ouid=101565728824798586897&rtpof=true&sd=true)
+- 📄 Know about my experiences https://docs.google.com/document/d/e/2PACX-1vQYzLlVHbOJcK4FefZQ537FMf1XvjfCFD-LRgkiCkvCYkYH8Bi_aSLnF69bCuZMdg/pub
 
-- ⚡ Fun fact **My 1 year old tomcat rides my 7 year old Australian Shepherd like a horse**
+- ⚡ Fun fact **My 2 year old tomcat rides my 8 year old Australian Shepherd like a horse**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
