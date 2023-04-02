@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaylabri95" target="blank"><img src="https://img.shields.io/twitter/follow/kaylabri95?logo=twitter&style=for-the-badge" alt="kaylabri95" /></a> </p>
 
-- 🔭 I’m currently working at **Cardinal Kinetic as a Software Engineer
+- 🔭 I’m currently working at **Cardinal Kinetic as a Software Engineer**
 
 - 🌱 I’m currently learning **TypeScript & Network/Network security**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Learning AWS & Being Certified**
 
-- 👨‍💻 All of my projects are available at **[kaylacincinnatiburns.com]
+- 👨‍💻 All of my projects are available at **[kaylacincinnatiburns.com]**
 
 - 💬 Ask me about **Node.js, JS**
 
