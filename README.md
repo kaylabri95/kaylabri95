@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Learning AWS & Being Certified**
 
-- 👨‍💻 All of my projects are available at **[kaylacincinnatiburns.com]**
+- 👨‍💻 All of my projects are available at **kaylacincinnatiburns.com**
 
 - 💬 Ask me about **Node.js, JS**
 
