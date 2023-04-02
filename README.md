@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kaylabri95@gmail.com**
 
-- 📄 Know about my experiences https://docs.google.com/document/d/e/2PACX-1vQYzLlVHbOJcK4FefZQ537FMf1XvjfCFD-LRgkiCkvCYkYH8Bi_aSLnF69bCuZMdg/pub
+- 📄 Know about my experiences (resume) [https://docs.google.com/document/d/e/2PACX-1vQYzLlVHbOJcK4FefZQ537FMf1XvjfCFD-LRgkiCkvCYkYH8Bi_aSLnF69bCuZMdg/pub]
 
 - ⚡ Fun fact **My 2 year old tomcat rides my 8 year old Australian Shepherd like a horse**
 
