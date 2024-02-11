@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kaylabri95@gmail.com**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1o0A-IsrSflIhXSolV7Yn94DVWaOcgWlf/edit?usp=sharing&ouid=101565728824798586897&rtpof=true&sd=true] (resume)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1o0A-IsrSflIhXSolV7Yn94DVWaOcgWlf/edit?usp=sharing&ouid=101565728824798586897&rtpof=true&sd=true] (resume)
 
 - ⚡ Fun fact **I love knitting. View my ravelry page here [https://www.ravelry.com/people/Kaylabri95] (here)**
 
