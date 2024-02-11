@@ -5,23 +5,23 @@
 
 <p align="left"> <a href="https://twitter.com/kaylabri95" target="blank"><img src="https://img.shields.io/twitter/follow/kaylabri95?logo=twitter&style=for-the-badge" alt="kaylabri95" /></a> </p>
 
-- 🔭 I’m currently working at **Cardinal Kinetic as a Software Engineer**
+- 🔭 I’m currently working at **Cardinal Kinetic as a Software Development Engineer**
 
-- 🌱 I’m currently learning **TypeScript & Network/Network security**
+- 🌱 I’m currently learning **API Testing & Networking**
 
 - 👯 I’m looking to collaborate on **Open Source Projects or your idea!**
 
-- 🤝 I’m looking for help with **Learning AWS & Being Certified**
+- 🤝 I’m looking for help with **Learning AWS & Go**
 
 - 👨‍💻 All of my projects are available at **kaylacincinnatiburns.com**
 
-- 💬 Ask me about **Node.js, JS**
+- 💬 Ask me about **Node.js, JS, TS**
 
 - 📫 How to reach me **kaylabri95@gmail.com**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/e/2PACX-1vQYzLlVHbOJcK4FefZQ537FMf1XvjfCFD-LRgkiCkvCYkYH8Bi_aSLnF69bCuZMdg/pub] (resume)
+- 📄 Know about my experiences **[https://docs.google.com/document/d/1o0A-IsrSflIhXSolV7Yn94DVWaOcgWlf/edit?usp=sharing&ouid=101565728824798586897&rtpof=true&sd=true] (resume)
 
-- ⚡ Fun fact **My 2 year old tomcat rides my 8 year old Australian Shepherd like a horse**
+- ⚡ Fun fact **I love knitting. View my ravelry page here [https://www.ravelry.com/people/Kaylabri95] (here)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
