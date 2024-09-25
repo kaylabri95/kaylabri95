@@ -9,17 +9,13 @@
 
 - 🌱 I’m currently learning **API Testing & Networking**
 
-- 👯 I’m looking to collaborate on **Open Source Projects or your idea!**
-
-- 🤝 I’m looking for help with **Learning AWS & Go**
-
 - 👨‍💻 All of my projects are available at **kaylacincinnatiburns.com**
 
 - 💬 Ask me about **Node.js, JS, TS**
 
 - 📫 How to reach me **kaylabri95@gmail.com**
 
-- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1o0A-IsrSflIhXSolV7Yn94DVWaOcgWlf/edit?usp=sharing&ouid=101565728824798586897&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/10fLfIBH3hSTBzR8rEBSFhEwQtZqdBEeQ/view?usp=drivesdk)
 
 - ⚡ Fun fact **I love knitting. View my ravelry page [here](https://www.ravelry.com/people/Kaylabri95)**
 
